@@ -1,6 +1,6 @@
 # ML with volumes on BTC
 
-* Will redo this README, as soon as the project ends. The next is a plan I developed with AI / personal affinities !
+* Will redo this README, as soon as the project ends. The next is the idea of the project, and the plan to match my affinities !
 
 Goal: Develop, backtest, and potentially deploy a machine learning model that predicts short-term price movements or generates trading signals based primarily on volume patterns and price-volume interactions for BTC/USD and EUR/USD.
 
