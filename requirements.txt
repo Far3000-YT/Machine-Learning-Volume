@@ -10,6 +10,7 @@ charset-normalizer==3.4.2
 cryptography==44.0.3
 frozenlist==1.6.0
 idna==3.10
+joblib==1.5.0
 multidict==6.4.3
 numpy==2.2.5
 pandas==2.2.3
@@ -20,9 +21,13 @@ pycparser==2.22
 python-dateutil==2.9.0.post0
 pytz==2025.2
 requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.2
 setuptools==80.1.0
 six==1.17.0
+threadpoolctl==3.6.0
 typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
+xgboost==2.0.3
 yarl==1.20.0
